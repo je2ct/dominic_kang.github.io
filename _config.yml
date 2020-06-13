@@ -2,10 +2,10 @@
 
 # Site Settings
 title: sample1 resume berry
-url: 'https://착한개발자.kr'
-baseurl: '/sample1_resume_berry' #change it according to your repository name
+url: 'https://je2ct.github.io/dominic_kang.github.io/'
+baseurl: '/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: berry # blue turquoise green berry orange ceramic
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 # Tracker
 #analytics: UA-83979019-1
