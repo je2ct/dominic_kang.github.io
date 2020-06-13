@@ -20,177 +20,179 @@ sidebar:
   #twitter: '@webjeda'
   #stack-overflow: # Number/Username, e.g. 123456/alandoe
 
+  LIFE PHILOSOPHY : Happiness can be found even in the darkest times, if one only remembers to turn on the light. 
+
   languages:
   - idiom: English
-    level: Native
+    level: Middle
 
-  - idiom: French
-    level: Professional
+  # interests:
+  # - item: Climbing
+  #   link:
 
-  - idiom: Spanish
-    level: Professional
+  # - item: Snowboarding
+  #   link:
 
-  interests:
-  - item: Climbing
-    link:
-
-  - item: Snowboarding
-    link:
-
-  - item: Cooking
-    link:
+  # - item: Cooking
+  #   link:
 
 career-profile:
-  title: Career Profile
+  title: MOST PROUD OF
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-
-    Second paragraph if required.
+    Rich and powerful human network
+    to help me succeed in this media content business
+    Negotiation strategy and skill
+    I always try to make both sides satisfied. 
+    Olleh TV’s growth
+    From 200 thousand subscribers to 8.2 million subscribers.
 
 education:
-- degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: |
-    Describe your study here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    sociis natoque penatibus et magnis dis parturient montes, nascetur
-    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    pretium quis, sem.
+- degree: B.A. in Korean Linguistics and Literature
+  university: Seoul National University
+  time: Mar.1980 – Feb.1984
 
-      - Bullet point
-      - Bullet point
+- degree: M.S. in 3D content 
+  university: Kwangwoon University 
+  time: Sep.2011 – Aug.2013
 
-- degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: |
-    Describe your study here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    sociis natoque penatibus et magnis dis parturient montes, nascetur
-    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    pretium quis, sem.
 
-      - Bullet point
-      - Bullet point
+#       - Bullet point
+#       - Bullet point
+
+# - degree: BSc in Applied Mathematics
+#   university: Bristol University
+#   time: 2007 - 2011
+#   details: |
+#     Describe your study here lorem ipsum dolor sit amet, consectetuer
+#     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#     sociis natoque penatibus et magnis dis parturient montes, nascetur
+#     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#     pretium quis, sem.
+
+#       - Bullet point
+#       - Bullet point
 
 experiences:
-- role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
+- role: Executive Vice President of Media Content Business
+  time: Jan. 2016 – Jan. 2020 
+  company: KT
   details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    Cum sociis natoque penatibus et magnis dis parturient montes,
-    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-    enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-    error sit voluptatem accusantium doloremque laudantium, totam rem
-    aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-    architecto beatae vitae dicta sunt explicabo.
+    Jan. 2016 – Jan. 2020 
+    Was in charge of acquisition of live channels and VODs.
+    Initiated the project of establishing joint venture between
+    Discovery international and KT.
+    Initiated collaboration between Scholastic and KT producing Scholastic animation series.
 
-      - Bullet point
-      - Bullet point
-
-- role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
+- role: Vice President of Media Content Business
+  time: Jan. 2012 – Dec. 2015
+  company: KT
   details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    Cum sociis natoque penatibus et magnis dis parturient montes,
-    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem.
+    Executed the launching of Dreamworks channel exclusively in Korea.
+    First launched EST service with Pacific Rim. Other companies can start this service after one year. 
 
-      - Bullet point
-      - Bullet point
-
-- role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
+- role: CEO of SidusFNH (film company)
+  time: May. 2011 – Dec. 2011
+  company: KT subsidiary
   details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    Cum sociis natoque penatibus et magnis dis parturient montes,
-    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem.
+    Released two Korean Movies and a foreign one.
 
-      - Bullet point
-      - Bullet point
+- role: Vice President of Media Content Business
+  time: Jan. 2008 – May. 2011
+  company: KT subsidiary
+  details: |
+    Led the negotiation for acquisition of live channels and VODs.
+    First launched Olleh TV (KT IPTV) barker channel.
+    Optimized Olleh TV User Interface. After that KT has become #1 IPTV in Korea.
+    First launched SPVOD(same time movie service with theater). After that ARPU starts to grow.
+    Initiated IPTV interactive content like Multi angle broadcasting and Multi commentary broadcasting.
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+- role: CEO of Channel Plus
+  time: Sep. 2002 – Dec. 2007
+  company: Independent Production 
+  details: |
+    Made some documentaries.
 
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+- role: Vice President of Content Business
+  time: Jan. 2000 – Jan. 2002 
+  company: SnHi (SBSi and Hyundai Corporation and Hyundai Department Store Joint Venture) 
+  details: |
+    Produced daily sitcom series <Ultra lucky Family>.
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+- role: Manager of TV program
+  time: May. 1985 – Jan. 2000 
+  company: KBS, SBS
+  details: |
+    Made some TV Programs.
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# projects:
+#   title: Projects
+#   intro: >
+#     You can list your side projects or open source libraries in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   assignments:
+#   - title: Velocity
+#     link: "#hook"
+#     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: DevStudio
+#     link: "#"
+#     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  papers:
-  - title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-  - title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
 
-skills:
-  title: Skills &amp; Proficiency
+#   papers:
+#   - title: The Art of Computer Programming
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - name: Javascript & jQuery
-    level: 98%
+#   - title: A syntax directed compiler for Algol 60
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
 
-  - name: Angular
-    level: 98%
+# skills:
+#   title: Skills &amp; Proficiency
 
-  - name: HTML5 & CSS
-    level: 95%
+#   toolset:
+#   - name: Python & Django
+#     level: 98%
 
-  - name: Ruby on Rails
-    level: 85%
+#   - name: Javascript & jQuery
+#     level: 98%
 
-  - name: Sketch & Photoshop
-    level: 60%
+#   - name: Angular
+#     level: 98%
+
+#   - name: HTML5 & CSS
+#     level: 95%
+
+#   - name: Ruby on Rails
+#     level: 85%
+
+#   - name: Sketch & Photoshop
+#     level: 60%
 
   #footer: >
   #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
