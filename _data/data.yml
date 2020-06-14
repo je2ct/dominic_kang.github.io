@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Dominic Kang
-  tagline: Media Content Platform Telco Geek
+  tagline: Media Content Platform Telco Master
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -36,13 +36,16 @@ sidebar:
 
 career-profile:
   title: MOST PROUD OF
-  summary: |
-    Rich and powerful human network
+  summary1: |
+    Rich and powerful human network,
+  summary2: |
     to help me succeed in this media content business
+  summary3: |
     Negotiation strategy and skill
+  summary4: |
     I always try to make both sides satisfied. 
     Olleh TV’s growth
-    From 200 thousand subscribers to 8.2 million subscribers.
+    from 200 thousand to 8.2 million subscribers.
 
 education:
 - degree: B.A. in Korean Linguistics and Literature
@@ -75,12 +78,12 @@ experiences:
   time: Jan. 2016 – Jan. 2020 
   company: KT
   details: |
-    Jan. 2016 – Jan. 2020 
     Was in charge of acquisition of live channels and VODs.
+  details: |
     Initiated the project of establishing joint venture between
     Discovery international and KT.
+  details: |
     Initiated collaboration between Scholastic and KT producing Scholastic animation series.
-
 - role: Vice President of Media Content Business
   time: Jan. 2012 – Dec. 2015
   company: KT
